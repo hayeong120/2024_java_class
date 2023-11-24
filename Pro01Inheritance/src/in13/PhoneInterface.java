@@ -7,4 +7,5 @@ interface PhoneInterface {		// 인터페이스 선언
 	default void printLogo() {			// default 메소드 
 		System.out.println("***Phone***");
 	}
+	// interface에서는 일반메소드 작성불가
 }
