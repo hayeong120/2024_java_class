@@ -1,4 +1,4 @@
-package in03;
+	package in03;
 
 public class Point {
 	private int x, y;	// 한 점을 구성하는 x, y좌표
