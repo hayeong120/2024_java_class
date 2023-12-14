@@ -4,6 +4,5 @@ public class InheritanceEx {
 	public static void main(String[] args) {
 		Student stu = new Student();
 		stu.set();
-		System.out.println(stu.name);
 	}
 }
